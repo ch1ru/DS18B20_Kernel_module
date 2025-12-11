@@ -1,5 +1,5 @@
 # DS18B20_Kernel_module
-A kernel module and user-space interface for the DS18B20 temperature sensor.
+A kernel module and user-space interface for the DS18B20 temperature sensor, for a university project.
 
 ## Changing device name
 To locate the correct temperature sensor device:
